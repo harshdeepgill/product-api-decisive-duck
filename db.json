@@ -105,200 +105,204 @@
         "id": 11,
         "title": "Wireless Over-Ear Headphones",
         "price": 129.99,
-        "category": "Electronics",
+        "category": "Headphones",
         "rating": 4.4,
         "numVotes": 150,
-        "image": "https://example.com/headphones1.jpg",
+        "image": ["https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FWireless%20Over-Ear%20Headphones%20pink.png?alt=media&token=7b93b15d-937b-4af3-a4fa-dd2d35e0a40c",
+                    "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FWireless%20Over-Ear%20Headphones%20silver.png?alt=media&token=7092fba8-3c9a-47c2-b812-87c8341c3784",
+                    "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FWireless%20Over-Ear%20Headphones%20blue.png?alt=media&token=380fa069-2620-47df-828a-a1b4c9092e0e",
+                    "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FWireless%20Over-Ear%20Headphones%20gray.png?alt=media&token=dc5e1a90-59c0-44bc-872e-171db25cdde4",
+                    "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FWireless%20Over-Ear%20Headphones%20green.png?alt=media&token=cb24f75c-c0fd-41e4-a878-b721a1412b4a"],
         "description": "High-quality wireless headphones for immersive sound."
       },
       {
         "id": 12,
         "title": "Noise-Canceling On-Ear Headphones",
         "price": 149.99,
-        "category": "Electronics",
+        "category": "Headphones",
         "rating": 4.6,
         "numVotes": 180,
-        "image": "https://example.com/headphones2.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FNoise-Canceling%20On-Ear%20Headphones.webp?alt=media&token=5055f553-cfb4-4669-8edf-f79399419d20",
         "description": "Enjoy your music with peace and quiet."
       },
       {
         "id": 13,
         "title": "In-Ear Bluetooth Earbuds",
         "price": 79.99,
-        "category": "Electronics",
+        "category": "Headphones",
         "rating": 4.2,
         "numVotes": 95,
-        "image": "https://example.com/headphones3.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FIn-Ear%20Bluetooth%20Earbuds.jpg?alt=media&token=6e36e9cf-4997-4dee-b7c7-6eba7eec19b0",
         "description": "Compact and wireless earbuds for active lifestyles."
       },
       {
         "id": 14,
         "title": "Gaming Headset with Mic",
         "price": 79.99,
-        "category": "Electronics",
+        "category": "Headphones",
         "rating": 4.1,
         "numVotes": 70,
-        "image": "https://example.com/headphones4.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FGaming%20Headset%20with%20Mic.jpg?alt=media&token=f3100875-6928-4f89-9c9d-25039bed2330",
         "description": "Immerse yourself in the gaming world with this headset."
       },
       {
         "id": 15,
         "title": "Sport Wireless Earphones",
         "price": 59.99,
-        "category": "Electronics",
+        "category": "Headphones",
         "rating": 4.3,
         "numVotes": 85,
-        "image": "https://example.com/headphones5.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FSport%20Wireless%20Earphones.avif?alt=media&token=31b92882-e91e-493d-9ca0-684a8a067e4b",
         "description": "Perfect for workouts and outdoor activities."
       },
       {
         "id": 16,
         "title": "High-End Studio Headphones",
         "price": 199.99,
-        "category": "Electronics",
+        "category": "Headphones",
         "rating": 4.8,
         "numVotes": 210,
-        "image": "https://example.com/headphones6.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FHigh-End%20Studio%20Headphones.jpg?alt=media&token=435b8375-2d11-4cdc-9c6a-a6134626d2ed",
         "description": "Professional-grade headphones for audio enthusiasts."
       },
       {
         "id": 17,
         "title": "Wireless Gaming Headset",
         "price": 129.99,
-        "category": "Electronics",
+        "category": "Headphones",
         "rating": 4.5,
         "numVotes": 120,
-        "image": "https://example.com/headphones7.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FWireless%20Gaming%20Headset.jpg?alt=media&token=b798789f-8cf5-4af2-9586-648e4e18aa33",
         "description": "Lag-free gaming audio with this wireless headset."
       },
       {
         "id": 18,
         "title": "In-Ear Noise-Canceling Earbuds",
         "price": 89.99,
-        "category": "Electronics",
+        "category": "Headphones",
         "rating": 4.7,
         "numVotes": 105,
-        "image": "https://example.com/headphones8.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FIn-Ear%20Noise-Canceling%20Earbuds.webp?alt=media&token=e6533c22-a223-4514-bae7-c6ff38cb2cf7",
         "description": "Block out distractions with these noise-canceling earbuds."
       },
       {
         "id": 19,
         "title": "On-Ear DJ Headphones",
         "price": 99.99,
-        "category": "Electronics",
+        "category": "Headphones",
         "rating": 4.4,
         "numVotes": 120,
-        "image": "https://example.com/headphones9.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FOn-Ear%20DJ%20Headphones.jpg?alt=media&token=2327b41b-ce2a-485d-bed7-05be5a4814fd",
         "description": "Designed for DJs and music professionals."
       },
       {
         "id": 20,
         "title": "Sweat-Proof Sports Earphones",
         "price": 49.99,
-        "category": "Electronics",
+        "category": "Headphones",
         "rating": 4.0,
         "numVotes": 60,
-        "image": "https://example.com/headphones10.jpg",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FSweat-Proof%20Sports%20Earphones.webp?alt=media&token=6ff0774a-dbc2-4f32-a8d3-f4d800f47b15",
         "description": "Stay motivated during workouts with these earphones."
       },
       {
         "id": 21,
         "title": "Running Shoes",
         "price": 79.99,
-        "category": "Footwear",
+        "category": "Shoes",
         "rating": 4.6,
         "numVotes": 150,
-        "image": "https://example.com/shoes1.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Comfortable running shoes for athletes."
       },
       {
         "id": 22,
         "title": "Casual Sneakers",
         "price": 59.99,
-        "category": "Footwear",
+        "category": "Shoes",
         "rating": 4.4,
         "numVotes": 120,
-        "image": "https://example.com/shoes2.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Stylish sneakers for everyday wear."
       },
       {
         "id": 23,
         "title": "Hiking Boots",
         "price": 129.99,
-        "category": "Footwear",
+        "category": "Shoes",
         "rating": 4.8,
         "numVotes": 210,
-        "image": "https://example.com/shoes3.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Durable hiking boots for outdoor adventures."
       },
       {
         "id": 24,
         "title": "Dress Shoes",
         "price": 89.99,
-        "category": "Footwear",
+        "category": "Shoes",
         "rating": 4.3,
         "numVotes": 85,
-        "image": "https://example.com/shoes4.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Elegant dress shoes for formal occasions."
       },
       {
         "id": 25,
         "title": "Basketball Sneakers",
         "price": 119.99,
-        "category": "Footwear",
+        "category": "Shoes",
         "rating": 4.5,
         "numVotes": 105,
-        "image": "https://example.com/shoes5.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "High-performance basketball sneakers."
       },
       {
         "id": 26,
         "title": "Slip-On Shoes",
         "price": 69.99,
-        "category": "Footwear",
+        "category": "Shoes",
         "rating": 4.2,
         "numVotes": 95,
-        "image": "https://example.com/shoes6.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Convenient slip-on shoes for easy wear."
       },
       {
         "id": 27,
         "title": "Trail Running Shoes",
         "price": 89.99,
-        "category": "Footwear",
+        "category": "Shoes",
         "rating": 4.7,
         "numVotes": 180,
-        "image": "https://example.com/shoes7.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Perfect for off-road running and hiking."
       },
       {
         "id": 28,
         "title": "Work Boots",
         "price": 109.99,
-        "category": "Footwear",
+        "category": "Shoes",
         "rating": 4.4,
         "numVotes": 120,
-        "image": "https://example.com/shoes8.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Sturdy work boots for demanding jobs."
       },
       {
         "id": 29,
         "title": "Cycling Shoes",
         "price": 79.99,
-        "category": "Footwear",
+        "category": "Shoes",
         "rating": 4.1,
         "numVotes": 70,
-        "image": "https://example.com/shoes9.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Optimized for cycling performance."
       },
       {
         "id": 30,
         "title": "Beach Sandals",
         "price": 29.99,
-        "category": "Footwear",
+        "category": "Shoes",
         "rating": 4.0,
         "numVotes": 60,
-        "image": "https://example.com/shoes10.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Casual sandals for beach days."
       },
       {
@@ -308,7 +312,7 @@
         "category": "Bags",
         "rating": 4.5,
         "numVotes": 120,
-        "image": "https://example.com/bags1.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Stylish leather backpack for everyday use."
       },
       {
@@ -318,7 +322,7 @@
         "category": "Bags",
         "rating": 4.2,
         "numVotes": 95,
-        "image": "https://example.com/bags2.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Spacious duffel bag for your travel needs."
       },
       {
@@ -328,7 +332,7 @@
         "category": "Bags",
         "rating": 4.4,
         "numVotes": 85,
-        "image": "https://example.com/bags3.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Versatile messenger bag for work and leisure."
       },
       {
@@ -338,7 +342,7 @@
         "category": "Bags",
         "rating": 4.0,
         "numVotes": 60,
-        "image": "https://example.com/bags4.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Simple and spacious tote bag for shopping."
       },
       {
@@ -348,7 +352,7 @@
         "category": "Bags",
         "rating": 4.6,
         "numVotes": 150,
-        "image": "https://example.com/bags5.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Durable rolling suitcase for travel convenience."
       },
       {
@@ -358,7 +362,7 @@
         "category": "Bags",
         "rating": 3.9,
         "numVotes": 45,
-        "image": "https://example.com/bags6.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Compact gym duffel bag for your workout gear."
       },
       {
@@ -378,7 +382,7 @@
         "category": "Bags",
         "rating": 4.7,
         "numVotes": 180,
-        "image": "https://example.com/bags8.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Functional backpack with a laptop compartment."
       },
       {
@@ -388,7 +392,7 @@
         "category": "Bags",
         "rating": 3.8,
         "numVotes": 35,
-        "image": "https://example.com/bags9.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Colorful beach tote for sunny days."
       },
       {
@@ -398,7 +402,7 @@
         "category": "Bags",
         "rating": 4.1,
         "numVotes": 70,
-        "image": "https://example.com/bags10.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Protect your camera gear with this specialized bag."
       },
       {
@@ -508,7 +512,7 @@
         "category": "Books",
         "rating": 4.5,
         "numVotes": 120,
-        "image": "https://example.com/books1.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "F. Scott Fitzgerald's classic novel about the American Dream."
       },
       {
@@ -518,7 +522,7 @@
         "category": "Books",
         "rating": 4.6,
         "numVotes": 150,
-        "image": "https://example.com/books2.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Harper Lee's powerful exploration of racial injustice in the South."
       },
       {
@@ -528,7 +532,7 @@
         "category": "Books",
         "rating": 4.4,
         "numVotes": 95,
-        "image": "https://example.com/books3.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "George Orwell's dystopian masterpiece."
       },
       {
@@ -538,7 +542,7 @@
         "category": "Books",
         "rating": 4.3,
         "numVotes": 85,
-        "image": "https://example.com/books4.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "J.D. Salinger's coming-of-age novel."
       },
       {
@@ -548,7 +552,7 @@
         "category": "Books",
         "rating": 4.7,
         "numVotes": 180,
-        "image": "https://example.com/books5.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Jane Austen's timeless classic of love and society."
       },
       {
@@ -558,7 +562,7 @@
         "category": "Books",
         "rating": 4.8,
         "numVotes": 210,
-        "image": "https://example.com/books6.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "J.R.R. Tolkien's epic fantasy adventure."
       },
       {
@@ -568,7 +572,7 @@
         "category": "Books",
         "rating": 4.6,
         "numVotes": 160,
-        "image": "https://example.com/books7.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Paulo Coelho's philosophical novel about destiny."
       },
       {
@@ -578,7 +582,7 @@
         "category": "Books",
         "rating": 4.4,
         "numVotes": 130,
-        "image": "https://example.com/books8.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Stephen King's classic horror novel set in the Overlook Hotel."
       },
       {
@@ -588,7 +592,7 @@
         "category": "Books",
         "rating": 4.2,
         "numVotes": 110,
-        "image": "https://example.com/books9.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "Dan Brown's thrilling mystery."
       },
       {
@@ -598,7 +602,7 @@
         "category": "Books",
         "rating": 4.9,
         "numVotes": 250,
-        "image": "https://example.com/books10.jpg",
+        "image": "https://placehold.co/400x500",
         "description": "J.K. Rowling's beloved tale of a young wizard."
       }
     ]
