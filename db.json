@@ -212,7 +212,7 @@
         "category": "Shoes",
         "rating": 4.6,
         "numVotes": 150,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FRunning%20Shoes.jpg?alt=media&token=d9a6e6a9-a82c-4537-a74c-503807f21657&_gl=1*1gorahk*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MTk4Mi40Ny4wLjA.",
         "description": "Comfortable running shoes for athletes."
       },
       {
@@ -222,7 +222,7 @@
         "category": "Shoes",
         "rating": 4.4,
         "numVotes": 120,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FCasual%20Sneakers.jpg?alt=media&token=c4954e3f-bf17-4966-8abd-a07462248e9b&_gl=1*i5psn5*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjEwNC42MC4wLjA.",
         "description": "Stylish sneakers for everyday wear."
       },
       {
@@ -232,7 +232,7 @@
         "category": "Shoes",
         "rating": 4.8,
         "numVotes": 210,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FHiking%20Boots.jpg?alt=media&token=a056c383-a551-41e7-8194-8919a59e12b9&_gl=1*a34z23*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjE0MC4yNC4wLjA.",
         "description": "Durable hiking boots for outdoor adventures."
       },
       {
@@ -242,7 +242,7 @@
         "category": "Shoes",
         "rating": 4.3,
         "numVotes": 85,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FDress%20Shoes.jpg?alt=media&token=13fd3709-7dd9-4a8b-adb9-b9067f835b52&_gl=1*hh8hcp*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjE3NS42MC4wLjA.",
         "description": "Elegant dress shoes for formal occasions."
       },
       {
@@ -252,7 +252,7 @@
         "category": "Shoes",
         "rating": 4.5,
         "numVotes": 105,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FBasketball%20Sneakers.jpg?alt=media&token=193bda67-3cfc-4f4d-9f18-b04df7b39883&_gl=1*9mj38w*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjIxMC4yNS4wLjA.",
         "description": "High-performance basketball sneakers."
       },
       {
@@ -262,7 +262,7 @@
         "category": "Shoes",
         "rating": 4.2,
         "numVotes": 95,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FSlip-On%20Shoes.jpg?alt=media&token=d34af180-455e-4d38-9b7d-e1221b762eab&_gl=1*1fpvj0w*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjI0MS42MC4wLjA.",
         "description": "Convenient slip-on shoes for easy wear."
       },
       {
@@ -272,7 +272,7 @@
         "category": "Shoes",
         "rating": 4.7,
         "numVotes": 180,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FTrail%20Running%20Shoes.jpg?alt=media&token=09862e63-0ddf-4357-9f6a-d4a93415b8c8&_gl=1*7c853i*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjI4NC4xNy4wLjA.",
         "description": "Perfect for off-road running and hiking."
       },
       {
@@ -282,7 +282,7 @@
         "category": "Shoes",
         "rating": 4.4,
         "numVotes": 120,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FWork%20Boots.jpg?alt=media&token=3d4af9ba-12dd-4b77-8b23-558cdb44d7a7&_gl=1*1bpvyfd*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjMyOC42MC4wLjA.",
         "description": "Sturdy work boots for demanding jobs."
       },
       {
@@ -292,7 +292,7 @@
         "category": "Shoes",
         "rating": 4.1,
         "numVotes": 70,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FCycling%20Shoes.jpg?alt=media&token=bc123de4-dd94-47e6-9fe4-603c862af5c3&_gl=1*1p5ktjh*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjM2NC4yNC4wLjA.",
         "description": "Optimized for cycling performance."
       },
       {
@@ -302,7 +302,7 @@
         "category": "Shoes",
         "rating": 4.0,
         "numVotes": 60,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FBeach%20Sandals.jpg?alt=media&token=ce351e31-2fb2-48a0-93a4-3c4b65e27f97&_gl=1*qwulvz*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjM5Mi42MC4wLjA.",
         "description": "Casual sandals for beach days."
       },
       {
@@ -312,7 +312,7 @@
         "category": "Bags",
         "rating": 4.5,
         "numVotes": 120,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FLeather%20Backpack.jpg?alt=media&token=ea226df8-2878-4215-9ad2-4d1e3883f067&_gl=1*fveiql*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjQ0My45LjAuMA..",
         "description": "Stylish leather backpack for everyday use."
       },
       {
@@ -322,7 +322,7 @@
         "category": "Bags",
         "rating": 4.2,
         "numVotes": 95,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FTravel-Duffel-Bag.jpeg?alt=media&token=243b9595-7190-4654-8713-53a1d16b39cf&_gl=1*km8zrr*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjUwNi44LjAuMA..",
         "description": "Spacious duffel bag for your travel needs."
       },
       {
@@ -332,7 +332,7 @@
         "category": "Bags",
         "rating": 4.4,
         "numVotes": 85,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FMessenger-Bag.jpeg?alt=media&token=51cf6a13-e5f7-4c22-9a9d-8e58eed030a9&_gl=1*du62ef*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjU0MS42MC4wLjA.",
         "description": "Versatile messenger bag for work and leisure."
       },
       {
@@ -342,7 +342,7 @@
         "category": "Bags",
         "rating": 4.0,
         "numVotes": 60,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FTote-Bag.jpeg?alt=media&token=8e06118d-1369-4a5c-adb7-b67373cf3fa5&_gl=1*1wgwbkt*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjU3My4yOC4wLjA.",
         "description": "Simple and spacious tote bag for shopping."
       },
       {
@@ -352,7 +352,7 @@
         "category": "Bags",
         "rating": 4.6,
         "numVotes": 150,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FRolling-Suitcase.jpeg?alt=media&token=35229f74-88bf-4787-b2f3-f12cfd4bef5c&_gl=1*r1mff*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjYwNi42MC4wLjA.",
         "description": "Durable rolling suitcase for travel convenience."
       },
       {
@@ -362,7 +362,7 @@
         "category": "Bags",
         "rating": 3.9,
         "numVotes": 45,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FGym-Duffel-Bag.jpeg?alt=media&token=6578fa1a-0b43-4aff-ba65-a7e7da9ae94f&_gl=1*13c8a2k*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjYzNS4zMS4wLjA.",
         "description": "Compact gym duffel bag for your workout gear."
       },
       {
@@ -372,7 +372,7 @@
         "category": "Bags",
         "rating": 4.3,
         "numVotes": 75,
-        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FHandbag.webp?alt=media&token=aefe740d-f4fc-4892-b886-23d452db4589",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FHandbag.jpeg?alt=media&token=dff1fc7d-24fd-4075-9bdb-850a0fee4737&_gl=1*jcrdpw*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjY2Ni42MC4wLjA.",
         "description": "Elegant handbag for special occasions."
       },
       {
@@ -382,7 +382,7 @@
         "category": "Bags",
         "rating": 4.7,
         "numVotes": 180,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FLaptop-Backpack.jpeg?alt=media&token=d08de003-b188-40b7-8983-71f167cd9a95&_gl=1*hy8pbr*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjcxOS43LjAuMA..",
         "description": "Functional backpack with a laptop compartment."
       },
       {
@@ -392,7 +392,7 @@
         "category": "Bags",
         "rating": 3.8,
         "numVotes": 35,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FBeach-Tote.jpeg?alt=media&token=32da085d-86a0-47c3-b3d1-f77a4b8dd515&_gl=1*bjfmj5*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0Mjc0OS4zOS4wLjA.",
         "description": "Colorful beach tote for sunny days."
       },
       {
@@ -402,7 +402,7 @@
         "category": "Bags",
         "rating": 4.1,
         "numVotes": 70,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FCamera-Bag.jpeg?alt=media&token=7facb474-b1df-4850-a045-366649b0352e&_gl=1*mtvg6d*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0Mjc3My4xNS4wLjA.",
         "description": "Protect your camera gear with this specialized bag."
       },
       {
@@ -512,7 +512,7 @@
         "category": "Books",
         "rating": 4.5,
         "numVotes": 120,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FThe%20Great%20Gatsby.jpg?alt=media&token=e535ebbd-90f4-4ee4-bdfe-65c0df060059&_gl=1*yxeeq3*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjgzMC42MC4wLjA.",
         "description": "F. Scott Fitzgerald's classic novel about the American Dream."
       },
       {
@@ -522,7 +522,7 @@
         "category": "Books",
         "rating": 4.6,
         "numVotes": 150,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FTo%20Kill%20a%20Mockingbird.jpg?alt=media&token=7b54be56-c659-4ee4-b5c2-a9f9df3a7dc0&_gl=1*1qcx0e1*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0Mjg2Mi4yOC4wLjA.",
         "description": "Harper Lee's powerful exploration of racial injustice in the South."
       },
       {
@@ -532,7 +532,7 @@
         "category": "Books",
         "rating": 4.4,
         "numVotes": 95,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2F1984.jpg?alt=media&token=7ca630ab-1802-489d-855d-7a0d598b514b&_gl=1*1663zb4*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0Mjg5MC42MC4wLjA.",
         "description": "George Orwell's dystopian masterpiece."
       },
       {
@@ -542,7 +542,7 @@
         "category": "Books",
         "rating": 4.3,
         "numVotes": 85,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FThe%20Catcher%20in%20the%20Rye.jpg?alt=media&token=b679475c-1dff-4255-94cd-1b3737fd1b84&_gl=1*lmnfj3*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MjkyMS4yOS4wLjA.",
         "description": "J.D. Salinger's coming-of-age novel."
       },
       {
@@ -552,7 +552,7 @@
         "category": "Books",
         "rating": 4.7,
         "numVotes": 180,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FPride%20and%20Prejudice.jpg?alt=media&token=f4a24269-c3ce-4fc1-aab3-1f1f53cbb1fe&_gl=1*1aavw2*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0Mjk4MC42MC4wLjA.",
         "description": "Jane Austen's timeless classic of love and society."
       },
       {
@@ -562,7 +562,7 @@
         "category": "Books",
         "rating": 4.8,
         "numVotes": 210,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FThe%20Hobbit.jpg?alt=media&token=e4c491aa-63ca-4ec2-9c89-52b4a7f0218a&_gl=1*l1toxs*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MzAyNS4xNS4wLjA.",
         "description": "J.R.R. Tolkien's epic fantasy adventure."
       },
       {
@@ -572,7 +572,7 @@
         "category": "Books",
         "rating": 4.6,
         "numVotes": 160,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FThe%20Alchemist.jpg?alt=media&token=ddc6ab62-6301-4661-a0a5-9b43bd1dfdee&_gl=1*42wcjf*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MzA1Ny42MC4wLjA.",
         "description": "Paulo Coelho's philosophical novel about destiny."
       },
       {
@@ -582,7 +582,7 @@
         "category": "Books",
         "rating": 4.4,
         "numVotes": 130,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FThe%20Shining.jpg?alt=media&token=c18e3403-3f6f-4033-8e5b-d5bb6f353aae&_gl=1*1c0k49s*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MzA5MC4yNy4wLjA.",
         "description": "Stephen King's classic horror novel set in the Overlook Hotel."
       },
       {
@@ -592,7 +592,7 @@
         "category": "Books",
         "rating": 4.2,
         "numVotes": 110,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FThe%20Da%20Vinci%20Code.jpg?alt=media&token=8cf82322-7aa4-4142-b207-993ed072eb6b&_gl=1*1krj8md*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MzExNS4yLjAuMA..",
         "description": "Dan Brown's thrilling mystery."
       },
       {
@@ -602,7 +602,7 @@
         "category": "Books",
         "rating": 4.9,
         "numVotes": 250,
-        "image": "https://placehold.co/400x500",
+        "image": "https://firebasestorage.googleapis.com/v0/b/decisive-duck.appspot.com/o/Resources%2FProduct_api%2FHarry%20Potter%20and%20the%20Sorcerer's%20Stone.jpg?alt=media&token=ce73d38b-1caa-4d0e-9c88-adbbf6b89ae3&_gl=1*sxmr0m*_ga*OTM3ODI3MTgyLjE2OTU3OTQ1MTI.*_ga_CW55HF8NVT*MTY5NjE0MTM0NC43LjEuMTY5NjE0MzE0Ny4zMi4wLjA.",
         "description": "J.K. Rowling's beloved tale of a young wizard."
       }
     ]
